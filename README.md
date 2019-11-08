@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/sureshtrial1/AzureDevOpsDemo2/_apis/build/status/suresh42326.ContosoAir?branchName=master)](https://dev.azure.com/sureshtrial1/AzureDevOpsDemo2/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
