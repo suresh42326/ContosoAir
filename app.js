@@ -1,14 +1,14 @@
-const express = require('express');
-const path = require('path');
-const logger = require('morgan');
-const Handlebars = require('handlebars');
-const exphbs = require('express-handlebars');
-const session = require("express-session");
-const flash = require('express-flash');
-const favicon = require('serve-favicon');
+// const express = require('express');
+// const path = require('path');
+// const logger = require('morgan');
+// const Handlebars = require('handlebars');
+// const exphbs = require('express-handlebars');
+// const session = require("express-session");
+// const flash = require('express-flash');
+// const favicon = require('serve-favicon');
 
-const passport = require('./src/config/passport.config');
-const configureI18N = require('./src/config/i18n.config');
+// const passport = require('./src/config/passport.config');
+// const configureI18N = require('./src/config/i18n.config');
 
 const i18n = configureI18N(__dirname);
 const app = express();

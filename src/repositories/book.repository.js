@@ -3,7 +3,7 @@ const UserInfoModelSchema = require('./book.repository.model');
 
 class BookFlightsRepository {
     //comment added
-    mfclsm cksmc sm
+    
     constructor(options) {
         let { cosmosdb_name, cosmosdb_key, cosmosdb_url, database_name } = options;
         cosmosdb_url = cosmosdb_url  || `${cosmosdb_name}.documents.azure.com:10255`;
